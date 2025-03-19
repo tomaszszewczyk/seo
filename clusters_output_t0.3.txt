@@ -1,0 +1,2545 @@
+    PL	  35990	 55
+	        27100	 46	react
+	         5400	 55	react native
+	         2900	 69	react js
+	          390	 53	reactnative
+	          110	 77	react native app
+	           90	 34	react development company
+
+    PL	  34220	 20
+	        18100	 50	arduino
+	         5400	 28	arduino uno
+	         3600	 17	arduino nano
+	         1000	 11	arduino mega
+	          880	 12	arduino uno r3
+	          720	 12	arduino leonardo
+	          590	  9	arduino projekty
+	          590	 18	arduino pro micro
+	          480	 14	arduino micro
+	          390	 11	arduino mega 2560
+	          390	  8	arduino mini
+	          390	 13	arduino pro mini
+	          320	  9	projekty arduino
+	          320	 14	arduino due
+	          320	 11	arduino wifi
+	          260	 55	esp32 arduino
+	          260	 47	esp32 arduino ide
+	          210	 23	arduino co to
+
+Non-PL	  27350	 26
+	        22200	 64	fpga
+	         2400	 67	fpgas
+	          880	 26	hardware design
+	          720	 22	design hardware
+	          590	 21	hardware designs
+	          140	 15	hardware design
+	          140	 22	hardware development
+	          110	 40	hardware systems
+	           70	  3	hardware development services
+	           40	  6	hardware development service
+	           30	 12	hardware design company
+	           30	 19	electronic hardware design
+
+    PL	  27020	 17
+	         9900	 58	aplikacja mobilna
+	         2900	 28	digitalizacja
+	         1900	 24	jak założyć sklep internetowy
+	          590	 16	aplikacja webowa
+	          590	 21	jak stworzyć aplikację
+	          480	 32	aplikacje mobilne
+	          480	  8	tworzenie aplikacji mobilnych
+	          390	 12	aplikacje webowe
+	          320	 14	aplikacja desktopowa
+	          320	 14	aplikacje desktopowe
+	          320	 21	aplikacje ios
+	          260	  9	aplikacja internetowa
+	          260	 22	co to jest aplikacja mobilna
+	          260	 14	ile kosztuje stworzenie aplikacji
+	          260	 18	tworzenie aplikacji
+	          210	 29	jak zrobić aplikacje na telefon
+	          210	 33	jak zrobic aplikacje
+	          210	 36	aplikacja internet
+	          170	 16	aplikacja natywna
+	          170	 16	ios aplikacje
+	          170	 15	tworzenie aplikacji na androida
+	          170	 23	jak stworzyć aplikację na telefon
+	          140	 14	aplikacje mobilne przykłady
+	          140	 17	aplikacja mobilna co to jest
+	          140	  4	tworzenie aplikacji mobilnych warszawa
+	          140	 10	programowanie aplikacji mobilnych
+	          140	 17	jak zrobić apke na androida
+	          140	 26	projektowanie aplikacji
+	          140	 21	jak stworzyć własną aplikację
+	          110	 31	agencje digitalowe
+	          110	 38	agencja digitalowa
+	          110	 41	aplikacje mobile
+	          110	 17	ile kosztuje aplikacja
+	          110	 10	projektowanie systemu informatycznego
+	          110	 19	projektowanie systemów informatycznych
+	          110	 16	aplikacje przypominające o lekach
+	          110	 18	aplikacja przypominająca o lekach
+	          110	 22	aplikacje przypominające
+	          110	  8	projektowanie aplikacji mobilnych
+	          110	 28	jak stworzyć aplikację na androida
+	          110	 19	jak stworzyc aplikacje na android
+	           90	 10	co to aplikacja webowa
+	           90	  9	dedykowane aplikacje webowe
+	           90	 10	jaki jest koszt stworzenia aplikacji mobilnej
+	           90	 16	ile kosztuje zrobienie aplikacji
+	           90	 24	jak stworzyć sklep internetowy krok po kroku
+	           90	 21	jak napisać aplikację
+	           90	 22	android aplikacje tworzenie
+	           90	 10	tworzenie aplikacji na ios
+	           90	 22	jak napisać aplikację na androida
+	           90	 15	program do robienia aplikacji na telefon
+	           90	 14	projektowanie aplikacji program
+	           90	 15	darmowy kreator aplikacji mobilnych
+	           90	 19	jak stworzyć prostą aplikację na androida
+	           90	 12	aplikacja do tworzenia aplikacji za darmo
+	           90	  5	jak napisać aplikację webową
+	           90	  5	jak stworzyć aplikację internetową
+	           90	  6	projektowanie aplikacji webowej
+	           90	 16	jak zrobić aplikację na androida
+	           90	 19	robienie aplikacji
+	           90	 28	zrób aplikacje na android
+	           90	 14	programista aplikacji mobilnych
+	           90	 15	programowanie aplikacji www
+	           90	  5	trendy w aplikacjach mobilnych
+	           90	  9	aplikacje biznesowe
+	           90	  6	wycena projektów informatycznych
+	           90	  4	aplikacje internetowe katowice
+	           90	 10	backend strony internetowej
+	           70	 17	web aplikacja
+	           70	 13	kto tworzy aplikacje mobilne
+	           70	 21	mobile development poland
+	           70	 16	cena stworzenia aplikacji mobilnej
+	           70	  8	aplikacje mobilne cena
+	           70	 11	aplikacje mobilne wycena
+	           70	 17	stworzenie aplikacji mobilnej cena
+	           70	 12	aplikacja mobilna cena
+	           70	 11	ile można zarobić na aplikacji mobilnej
+	           70	 32	sklep online jak otworzyc
+	           70	 11	aplikacje dedykowane dla firm
+	           70	 17	aplikacja do przypominania o tabletkach
+	           70	 23	aplikacja przypomnienie o lekach
+	           70	 16	budowanie aplikacji na androida
+	           70	 16	jak sie tworzy aplikacje na telefon
+	           70	 15	stwórz własną aplikację
+	           70	 14	pisanie aplikacji na androida
+	           70	 19	jak tworzyć aplikacje
+	           70	 19	własna aplikacja
+	           70	 16	jak stworzyc apke na androida
+	           70	 12	jak projektować aplikacje
+	           70	 13	interfejs aplikacji mobilnych
+	           70	 15	darmowy program do tworzenia aplikacji mobilnych
+	           70	  6	budowanie zespołu projektowego
+	           70	  3	brief aplikacji mobilnej
+
+Non-PL	  19560	 27
+	        12100	 81	mobile app development
+	         1000	 40	web app development company
+	          590	 29	web app development agency
+	          480	 34	web application vs website
+	          390	 44	website vs web application
+	          320	 28	web app developers
+	          260	 39	custom web app development company
+	          260	 24	web app vs mobile app
+	          260	 36	mobile web development
+	          260	 35	web app developer
+	          210	 21	web application vs mobile application
+	          210	 38	web and mobile app development
+	          170	 42	mobile web application
+	          170	 33	website vs web app
+	          140	 14	web app vs desktop app
+	          140	 13	desktop application vs web application
+	          140	 36	web apps development services
+	          110	 13	web app or desktop app
+	          110	 15	desktop vs web based application
+	          110	 12	web application or desktop application
+	          110	 13	web based application vs desktop application
+	          110	 18	web vs desktop app
+	          110	 10	web based vs desktop application
+	          110	 37	web app development service
+	          110	 21	web application mobile application
+	          110	 30	web app mobile app
+	          110	 23	mobile application and web application
+	           90	  2	desktop app vs cloud based app
+	           90	 24	desktop vs web application
+	           90	 44	mobile web apps
+	           90	 20	mobile app vs web app
+	           90	 28	web vs app development
+	           70	 13	web application vs desktop application
+	           70	 10	desktop vs web app
+	           70	 23	desktop app vs web app
+	           70	 16	mobile app development vs web development
+	           70	 27	web development vs app development
+	           70	 36	web vs app
+	           70	 40	software web app development
+	           70	 26	web app development process
+	           70	 28	web app ux design
+	           50	 40	app vs mobile web
+	           50	 25	web based mobile app development
+	           40	 12	inexpensive mobile app development
+	           40	 47	mobile application vs website
+	           40	 21	mobile and web
+	           30	 19	difference between web based application and desktop application
+	           30	 29	web mobile apps
+
+Non-PL	  15700	 38
+	         9900	 56	rtos
+	         2900	 28	rtos
+	          390	 43	real time operating system
+	          390	 57	rtos
+	          320	 49	real operating system
+	          260	 53	real time linux operating system
+	          210	 27	rt operating system
+	          170	 50	real time operating system
+	          170	 58	rtos meaning
+	          140	 30	realtime os
+	          140	 18	rtos cyber security
+	           90	 49	embedded rtos system
+	           90	 13	embedded systems and rtos
+	           90	 37	embedded rtos
+	           90	 38	rtos embedded
+	           90	 30	rtos in embedded system
+	           90	 40	what are real time systems
+	           90	 50	what real time operating system
+	           40	 38	realtime operating system
+	           40	  0	rtos cybersecurity
+
+    PL	  15100	 15
+	         9900	 24	mvp
+	         2400	 23	mvp co to
+	         1600	 18	mvp co to znaczy
+	          320	 14	co to mvp
+	          210	 14	co znaczy mvp
+	          140	 13	co oznacza mvp
+	          140	 12	co to jest mvp
+	           90	 32	mvp how to
+	           90	 16	lean mvp
+	           70	  5	mvp aplikacji
+	           70	 13	mvp co oznacza
+	           70	  5	mvp prototyp
+
+    PL	  11560	 27
+	         5400	 33	iot
+	          880	 30	iot co to
+	          320	 32	urządzenia iot
+	          260	 79	iot devices
+	          260	 31	internet rzeczy iot
+	          210	 71	iot meaning
+	          210	 41	iot platform
+	          170	 32	best iot platform
+	          170	 23	iot wi fi
+	          170	 17	wifi iot
+	          140	 80	what is iot
+	          140	 21	iot remote control
+	          140	 35	iot device management
+	          110	 29	iot monitoring
+	          110	 38	azure iot
+	          110	 29	co to jest iot
+	          110	 19	iot solutions
+	          110	 28	sieć iot
+	          110	 50	iot sensors
+	           90	 19	best programming language for iot
+	           90	 13	custom iot devices
+	           90	 24	industrial iot services
+	           90	 29	co to iot
+	           90	 31	technologia iot
+	           90	 26	iot connectivity management platform
+	           90	 48	iot connectivity provider
+	           90	 32	iot monitoring system
+	           90	 41	arduino iot cloud
+	           90	 29	iot business solutions
+	           90	 31	iot connect
+	           90	 13	iot saas
+	           90	 10	iot telemetry
+	           70	 21	iot programming language
+	           70	 19	industrial iot
+	           70	 32	interesting iot projects
+	           70	 36	iot project ideas using arduino
+	           70	  0	software iot projects
+	           70	  0	thingspeak iot
+	           70	 11	5g iot
+	           70	 32	esp8266 aws iot
+	           70	 26	esp8266 iot projects
+	           70	 26	iot asset tracking
+	           70	 27	iot challenges
+	           70	 42	iot edge devices
+	           70	 11	iot esp8266
+	           70	  0	iot logistyka
+	           70	 16	iot m2m
+	           70	 14	iot poznań
+	           70	 19	iot push notifications
+	           70	  0	pet iot
+
+Non-PL	  11390	 26
+	         1000	 32	software development outsourcing
+	          880	 39	it outsourcing companies
+	          880	 36	software outsourcing company
+	          720	 31	outsourcing software development
+	          480	 32	it outsource service
+	          390	 37	outsourcing of information technology services
+	          390	 27	it outsourcing software
+	          320	 37	software development outsourcing company
+	          320	 31	outsourcing software development services
+	          320	 36	software outsourcing services
+	          320	 34	software outsourcing software
+	          260	 34	software outsource
+	          210	 37	outsourced it
+	          210	 31	outsourcing development software
+	          210	 23	outsourcing it development
+	          170	 28	outsourced it services
+	          170	 38	top it outsourcing companies
+	          170	 39	custom software development outsourcing
+	          170	 33	outsourcing software development companies
+	          170	 39	outsource software development company
+	          140	 28	outsourcing software
+	          140	 15	outsource software development company
+	          140	 37	outsourcing software companies
+	          140	  2	outsourcing saas development
+	          110	 18	outsourced it solutions
+	          110	 39	outsourcing software development company
+	          110	 25	outsourcing developers
+	          110	 35	outsourcing custom software development
+	          110	 21	outsourcing development
+	           90	 46	custom software development business
+	           90	 22	outsourcing of information technology services
+	           90	 26	outsource it services
+	           90	  1	outsource engineering
+	           90	 20	outsource web
+	           90	 33	software outsourcing meaning
+	           90	 27	software and outsourcing
+	           90	 29	it development outsourcing
+	           90	 33	outsourcing in software development
+	           70	 47	what is it outsourcing
+	           70	 16	it outsourcing team
+	           70	  6	outsource engineering services
+	           70	  1	outsourcing engineering
+	           70	 37	outsourcing development company
+	           70	 35	outsource custom software development
+	           70	 27	software engineering outsourcing
+	           70	 35	outsourcing software developers
+	           70	 30	software projects outsourcing
+	           70	 23	software development outsourcing
+	           50	 24	it outsourcing provider
+	           50	  8	outsource it projects
+	           50	  3	engineering outsourcing
+	           50	 21	benefits of outsourcing software development
+	           50	 30	outsourcing software company
+	           50	 33	software developers outsourcing
+	           50	 21	best countries to outsource software development
+	           50	 32	programming outsourcing
+	           40	  9	outsource project
+	           40	 10	it projects outsourcing
+	           40	 37	outsourcing development services
+	           40	 30	outsourcing developer
+	           40	 18	programmer outsourcing
+	           40	 28	outsourcing of software development
+	           40	  0	outsourcing software engineering
+	           40	 35	software developer outsourcing
+	           40	 11	net software outsourcing
+	           40	  1	softwareentwicklung outsourcing polen
+	           30	 36	business it outsourcing
+	           30	 28	outsourcing it company
+	           30	 18	advantages of software outsourcing
+	           30	 19	benefits of software outsourcing
+	           30	 21	advantages of outsourcing software development
+	           30	 29	outsourcing programmers
+	           30	 12	outsourcing it projects
+
+Non-PL	  11210	 45
+	         3600	 29	proof of principle
+	         2400	 58	proof of concept
+	         1300	 55	proof the concept
+	         1000	  9	proof of principle
+	         1000	 51	what is a proof of concept
+	          260	 59	proof of concept def
+	          260	 56	what is proof of concept
+	          210	 57	proof of concept definition
+	          210	 59	proof-of-concept
+	          170	 51	whats a proof of concept
+	          140	 58	definition of proof of concept
+	          140	 55	meaning of proof of concept
+	          110	 58	what is proof of concept mean
+	           90	  6	proof of principle vs proof of concept
+	           90	 56	whats a proof of concept
+	           70	 31	software proof of concept
+	           70	 46	what's a proof of concept
+	           50	 39	concept of proof
+	           40	 25	proof of concept proof of principle
+
+Non-PL	  10970	 30
+	         5400	 79	agile software development
+	         2400	 70	software development companies
+	          880	 34	enterprise software development
+	          390	 32	enterprise software development services
+	          320	 81	agile developement
+	          320	 37	software development agencies
+	          210	 13	agile software development company
+	          170	 18	agile software development services
+	          140	 21	manufacturing software development services
+	           90	 20	software development and consulting
+	           90	 28	enterprise software development companies
+	           90	 11	how to choose a software development company
+	           90	 19	manufacturing software development company
+	           90	 12	software development house
+	           90	 38	ux agile methodology
+	           70	  5	agile software house
+	           50	 14	agile software development companies
+	           50	 20	companies that use agile software development
+	           30	 26	enterprise software development consulting services
+
+    PL	  10650	 43
+	         9900	 88	flutter
+	          170	 82	flutter app
+	          110	 30	flutter vs react native
+	          110	 10	flutter co to
+	          110	 41	flutter development
+	           90	 27	react native vs flutter
+	           90	 45	flutter reactjs
+	           70	 23	flutter vs kotlin
+
+    PL	  10220	 41
+	         9900	 66	next js
+	          210	 31	next js vs react
+	          110	 28	react next
+
+Non-PL	  10170	 17
+	         2900	 36	staff augmentation
+	         1000	 20	team augmentation
+	          880	 30	it staff augmentation services
+	          720	 37	staff augmentation services
+	          480	 30	staff augmentation
+	          390	 23	staff augmentation definition
+	          260	 14	team augmentation
+	          260	 29	it staff augmentation company
+	          260	  9	staff augmentation vs consulting
+	          210	 37	staff augmentation companies
+	          210	 33	it staff augmentation companies
+	          170	 18	software development staff augmentation
+	          170	 34	staff augmentation company
+	          170	 27	it team augmentation
+	          170	  1	nearshore staff augmentation
+	          170	 12	staff augmentation vs managed services
+	          170	 20	staff augmentation vs outsourcing
+	          110	  8	software development team augmentation
+	          110	  1	staff augmentation consulting
+	          110	 27	it staff augmentation service
+	          110	  0	software offshore staffing
+	           90	 15	software team augmentation
+	           90	 29	staff augmentation definition
+	           90	 13	staff aug vs managed services
+	           90	 13	managed services vs staff augmentation
+	           90	  0	offshore staff augmentation
+	           70	 10	staff augmentation companies in usa
+	           70	 17	it augmentation
+	           70	 19	software staff augmentation
+	           70	 35	it staffing augmentation
+	           70	  8	engineering staff augmentation
+	           50	 14	top it staff augmentation companies
+	           50	 29	it augmentation services
+	           40	 10	staff augmentation consulting services
+	           40	  1	agile staff augmentation
+	           40	 26	staff augmentation company in usa
+	           40	  0	technical staff augmentation
+	           40	  0	staff augmentation solutions
+	           40	  0	developer staff augmentation
+
+    PL	   9970	 48
+	         9900	 83	firebase
+	           70	 13	firebase co to
+
+Non-PL	   8630	 31
+	         1900	 51	cross platform mobile development
+	         1900	 47	cross platform mobile app development
+	         1000	 49	multiplatform mobile app development
+	          480	 28	cross platform mobile app development services
+	          390	 25	cross platform mobile app development company
+	          390	 20	mobile app development languages
+	          260	 38	hybrid mobile app development
+	          210	 17	mobile development languages
+	          210	 32	mobile application examples
+	          210	 38	hybrid mobile development
+	          210	 38	native mobile app development
+	          170	 30	sample mobile application
+	          170	 15	hybrid mobile app development services
+	          140	 25	examples of mobile apps
+	          110	 14	programming language for mobile app
+	          110	 36	mobile app prototyping
+	           90	 52	cross-platform development
+	           90	 29	programming languages for mobile app development
+	           90	 16	10 example of mobile application
+	           90	 31	mobile applications examples
+	           90	 44	mobile development native
+	           70	 45	application mobile cross platform
+	           70	 18	mobile application development languages
+	           50	 32	prototype application mobile
+	           40	 33	mobile prototype
+	           30	 15	mobile application languages
+	           30	 18	mobile app languages
+	           30	 51	mobile prototyping
+
+Non-PL	   8470	 18
+	         1300	 17	bespoke software
+	         1300	 39	custom software solutions
+	         1000	 45	custom mobile app development
+	          480	 33	custom web app development services
+	          390	 23	bespoke software development services
+	          390	 21	bespoke software development company
+	          390	 27	custom software development service
+	          390	 39	custom software solution
+	          320	 38	custom app development services
+	          320	 38	custom mobile application development
+	          320	 18	custom web app development
+	          170	 31	custom software solutions
+	          140	 19	bespoke software developers
+	          140	 20	bespoke software solutions
+	          110	 12	bespoke solution
+	          110	 23	bespoke software company
+	           90	  4	bespoke app development
+	           90	 20	custom cms solutions
+	           90	 23	custom cms software
+	           90	 12	custom management system
+	           90	 24	custom java software development
+	           70	 16	developing bespoke software
+	           70	  6	advantages of bespoke software
+	           50	 26	bespoke software companies
+	           50	 10	bespoke software developer
+	           50	 16	custom content management system
+	           50	  4	tailor made software examples
+	           40	  0	software bespoke
+	           40	  6	bespoke software for
+	           40	  9	benefits of bespoke software
+	           40	  8	bespoke software systems
+	           40	  0	bespoke software development companies
+	           40	  7	choose a bespoke software developer
+	           40	 25	tailor made software
+	           40	 10	what is custom application development
+	           30	  4	bespoke business software development
+	           30	 24	custom hr software
+	           30	 10	advantages of custom software
+
+Non-PL	   7890	 24
+	          590	 36	embedded systems
+	          260	 31	embedded os
+	          260	 20	embedded sw engineer
+	          260	 20	embedded sw engineer
+	          260	 14	software engineering embedded systems companies
+	          210	 25	embedded software engineering
+	          210	 42	embedded programming software
+	          210	 22	embedded software
+	          210	 14	software embedded
+	          210	 23	embedded software development services
+	          210	 26	embedded systems projects
+	          170	 27	embedded sw development
+	          170	 41	embedded programming software
+	          170	 14	embedded systems engineer
+	          170	 29	embedded system software
+	          170	 25	embedded testing
+	          140	 32	embedded os
+	          140	 34	embedded system operating system
+	          140	 48	embedded programming
+	          140	 28	embedded and real time systems
+	          110	 24	os for embedded systems
+	          110	 28	what is embedded software engineering
+	          110	 45	embedded programming
+	          110	 25	what is embedded software
+	          110	 28	embedded software development company
+	          110	 21	embedded systems programming languages
+	          110	 16	embedded system testing
+	           90	 28	embedded development
+	           90	 34	embedded software development
+	           90	 23	embedded system software development
+	           90	 14	embedded engineer
+	           90	 14	embedded software testing
+	           90	 25	embedded testing
+	           90	 11	embedded security
+	           70	 30	embedded android
+	           70	 41	what is an embedded os
+	           70	 30	embedded system operating system
+	           70	 18	embedded sw development
+	           70	 26	embedded systems software development
+	           70	 24	embedded engineering
+	           70	 46	embedded systems software
+	           70	 44	software embedded systems
+	           70	 14	embedded systems engineer
+	           70	 26	embedded systems architecture
+	           70	  7	embedded software architektur
+	           70	 25	embedded software architecture
+	           70	 22	embedded software services
+	           70	 24	embedded system design
+	           70	 13	embedded software development tools
+	           70	 30	embedded systems programming
+	           50	  7	embedded projects outsourcing
+	           50	 39	embedded operating system examples
+	           50	 19	embedded engineering
+	           50	  1	embedded software outsourcing
+	           50	 24	embedded development services
+	           40	  3	outsource embedded firmware development
+	           40	 34	embedded os examples
+	           40	 43	embedded architecture
+	           40	 25	embedded system architecture
+	           40	 14	embedded development company
+	           40	 21	embedded software design services
+	           40	  7	embedded product design
+	           40	 22	embedded system engineering
+	           40	 16	software testing embedded systems
+	           40	 19	embedded system engineer
+	           30	 27	embedded android software
+	           30	 37	embedded software solutions
+	           30	 21	embedded software engineering
+	           30	 11	embedded architect
+	           30	 24	embedded system design software
+	           30	 24	embedded systems development companies
+	           30	  6	embedded system services
+	           30	  0	embedded software development outsourcing
+	           30	 20	embedded software development service
+	           30	 18	embedded product development services
+	           30	 44	embedded design
+	           30	 27	embedded systems languages
+	           30	 23	real-time embedded systems
+	           30	 22	embedded linux services
+
+    PL	   6570	 22
+	         4400	 23	software house
+	          720	 64	software company
+	          140	 11	software house co to
+	          110	 50	it software development company
+	          110	 52	software development company
+	          110	 59	software development agency
+	           90	 14	android software house
+	           90	 19	best software house
+	           90	 83	web design software company
+	           90	 15	enterprise software development company
+	           90	 14	software development co to
+	           90	 32	website and software development
+	           70	  0	software house company
+	           70	  0	software house portfolio
+	           70	  5	boutique software company
+	           50	  0	java software house
+	           50	  0	mobile software house
+	           50	  0	net software house
+	           40	  0	software house ai
+	           40	  0	software house php
+
+    PL	   5950	 14
+	          880	 10	firmy programistyczne toruń
+	          480	 14	software house warszawa
+	          480	 20	warszawa software house
+	          320	 11	software house kraków
+	          260	 15	usługi programistyczne
+	          260	 43	software house poznań
+	          260	 18	software house wroclaw
+	          210	 18	firma programistyczna
+	          210	 10	software house wrocław
+	          210	 14	wroclaw software house
+	          210	 14	wrocław software house
+	          170	  0	poznan software house
+	          170	  0	poznań software house
+	          170	 21	software house katowice
+	          170	  5	software house krakow
+	          170	 38	software house poznan
+	          140	 10	krakow software house
+	          140	 32	software house polska
+	          140	 14	software house rzeszów
+	          110	 17	gdańsk software house
+	          110	 14	software house gdańsk
+	           90	 17	software house gliwice
+	           90	 23	software house opole
+	           90	 28	wrocław agile development
+	           90	 10	polish programmers
+	           70	 12	polskie software house
+	           70	 18	software house poland
+	           50	  0	software house berlin
+	           50	  0	software house bielsko biała
+	           50	  0	łódź software house
+	           30	  0	lista software house w polsce
+
+Non-PL	   5520	 23
+	          720	 26	mvp development services
+	          590	 26	mvp development company
+	          390	 22	mvp development cost
+	          390	 47	mvp software development
+	          260	 26	mvp development agency
+	          210	 24	startup mvp development
+	          210	 17	mvp development companies
+	          170	  7	custom mvp software development
+	          170	 30	mvp dev
+	          140	 32	mvp app development
+	          140	 20	mvp development for startups
+	          140	  3	custom mvp development
+	          140	 10	mvp app development company
+	          110	 24	project management mvp
+	          110	 53	mvp meaning in business
+	          110	 29	agile development mvp
+	          110	 29	mvp agile development
+	          110	 19	mvp app development services
+	          110	 27	mvp development service
+	           90	 28	software development mvp
+	           90	 34	mvp in software development
+	           70	 19	how much does an mvp cost
+	           70	 23	mobile app development mvp
+	           70	 48	what's a mvp
+	           70	 34	what is mvp in software development
+	           70	  7	develop custom mvp software
+	           70	 28	mvp application development
+	           70	 27	mvp software development services
+	           70	 20	mvp development services
+	           50	 20	mvp development сost
+	           50	 31	cost to develop mvp
+	           50	 18	mvp development team
+	           50	 26	mvp development services for startups
+	           50	 27	mvp software development company
+	           50	 17	saas mvp development
+	           40	 12	how much for mvp mobile app
+	           40	 12	bespoke mvp development company
+	           40	  8	develop custom mvp product
+	           30	 14	mvp software development agency
+
+Non-PL	   5470	 30
+	         1000	 40	ui ux design services
+	          480	 40	ui/ux design services
+	          480	 30	ux audit
+	          210	 35	ui ux design and development services
+	          210	 37	ui ux services
+	          210	 27	ux design audit
+	          210	 23	user experience audit
+	          170	 36	ui ux development services
+	          170	 25	audit ux design
+	          140	 34	creative ui ux services
+	          140	 37	ui ux design service
+	          140	 37	ui/ux design service
+	          140	 21	ux audit services
+	          140	 22	ux design audit
+	          110	 14	user experience consulting
+	          110	 38	ui and ux services
+	          110	 36	ux/ui design services
+	          110	 23	ux audit agency
+	          110	 14	ui developers
+	           90	 28	ui ux consulting services
+	           90	 20	ux audit service
+	           70	 28	ui/ux design and development services
+	           70	 22	ux research consultancy
+	           70	 36	ui & ux design services
+	           70	 34	ui and ux design services
+	           70	 19	ux audit template
+	           70	 29	audit ux
+	           50	 36	ui ux designing service
+	           50	 36	ui/ux services
+	           50	 18	ux audit checklist
+	           50	 63	ux ui development
+	           40	 39	ui/ux development services
+	           40	 23	ui ux audit services
+	           40	 31	website user experience audit
+	           40	 34	ux audits
+	           30	 35	ui ux designing services
+	           30	 26	user experience audits
+	           30	 25	usability audit
+	           30	 21	website ux audit
+
+Non-PL	   5420	 17
+	          880	 29	offshore software development
+	          720	 38	offshore software development company
+	          480	 24	offshore development center
+	          390	 34	offshore software development services
+	          320	 31	offshore development
+	          210	 21	software offshore development
+	          210	 22	hire offshore developers
+	          140	 14	hire offshore development team
+	          140	  8	offshore app development
+	          140	 18	offshore developers
+	          140	 24	offshore it development
+	          140	 18	offshore mobile app development
+	          140	 20	offshore software development companies
+	          110	 19	development offshore software
+	          110	  4	mobile development offshore
+	          110	 30	development offshore
+	          110	  7	offshore mobile application development
+	           90	 16	offshore software development team
+	           90	 11	mobile app development offshore
+	           90	 21	developer offshore
+	           90	 18	offshore software developers
+	           70	 20	offshore it services
+	           70	  3	offshore mobile development
+	           70	  0	offshore cross-platform app developing service
+	           70	 22	best offshore software development companies
+	           70	  9	offshore development partner
+	           50	  8	offshore it
+	           50	  5	offshore hybrid mobile development team
+	           50	  3	ios offshore development
+	           40	 28	what is an offshore development center
+	           30	  9	offshore expansion strategy
+
+    PL	   5320	 34
+	         3600	 23	mqtt
+	          720	 37	broker mqtt
+	          720	 47	mqtt broker
+	           70	 26	iot mqtt dashboard
+	           70	 59	aws iot mqtt
+	           70	 22	iot hub mqtt broker
+	           70	 29	mqtt ws
+
+    PL	   5240	 20
+	         3600	 23	embedded
+	          390	 21	embedded system testing
+	          320	 24	embedded software testing
+	          210	 34	embedded c++
+	          140	 15	embedded c
+	          110	 23	embedded software
+	          110	 18	embedded sw
+	           90	 20	embedded software design
+	           90	 19	embedded system services
+	           90	 14	embedded audio
+	           90	 14	embedded product development
+
+Non-PL	   5020	 29
+	         1300	 36	mobile app developers near me
+	          590	 32	best mobile app developers
+	          480	 37	best mobile app development software
+	          480	 36	best mobile application development software
+	          480	 30	mobile app developer jobs
+	          480	 23	mobile developer jobs
+	          480	 34	mobile app developer near me
+	          320	 22	best mobile development companies
+	          170	 28	web app developers near me
+	          170	 24	outsource mobile app development
+	           40	 22	finding an app developer
+	           30	 35	best place to find developers
+
+Non-PL	   4970	 24
+	         1900	 47	hardware vs software
+	         1000	 31	software vs hardware
+	          320	 34	difference between hardware software
+	          320	 47	hardware and software difference between
+	          320	 37	what are the differences between software and hardware
+	          210	 30	hardware or software
+	          170	 12	similarities between hardware and software
+	          110	 11	firmware vs embedded software
+	          110	 11	embedded firmware
+	          110	 23	firmware vs software vs hardware
+	          110	 12	hardware and software similarities
+	           90	 23	hardware vs software vs firmware
+	           50	 28	embedded software vs application software
+	           50	 32	firmware vs operating system
+	           40	  8	embedded software vs firmware
+	           30	 14	firmware embedded
+	           30	 19	5 similarities between hardware and software
+
+Non-PL	   4850	 26
+	          720	 31	legacy modernization
+	          590	 47	legacy it systems
+	          590	 37	legacy application modernization
+	          390	 26	legacy system modernization
+	          320	 37	legacy maintenance services
+	          260	 23	software modernization services
+	          260	 25	legacy application modernization services
+	          210	 31	legacy maintenance
+	          210	 29	legacy software modernization
+	          170	 23	legacy modernization services
+	          170	 27	legacy modernization software
+	          170	 33	legacy app modernization
+	          110	 19	legacy software modernization company
+	          110	 20	legacy software modernization services
+	          110	 23	modernize legacy systems
+	          110	  0	legacy software development uk
+	           90	 36	legacy system software
+	           70	 22	modernizing legacy systems
+	           50	 23	legacy app modernization services
+	           50	  9	application modernization challenges
+	           50	 16	legacy system modernization approaches
+	           40	 45	legacy meaning software
+
+Non-PL	   4580	 29
+	         1600	 47	business intelligence solutions
+	          880	 38	business intelligence reports
+	          720	 10	business intelligence consulting
+	          480	 23	business intelligence strategy
+	          320	 57	business intelligence solution
+	          170	 11	business intelligence consulting firms
+	          140	 47	business intelligence bi solutions
+	           90	 18	business intelligence best practices
+	           50	 26	bi best practices
+	           50	 52	business inteligence solutions
+	           50	 22	embedded bi tools
+	           30	  8	business intelligence outsourcing
+
+Non-PL	   4370	 28
+	         2900	 33	product owner vs product manager
+	         1000	 34	product manager vs product owner
+	          170	 24	product owner vs product manager
+	          140	 26	product manager vs product owner
+	           90	 23	product manager versus product owner
+	           70	 31	product management vs product owner
+
+    PL	   4250	 20
+	         2400	 29	pwa
+	          480	 17	rejestracja pwa
+	          320	 31	pwa apps
+	          210	 17	aplikacja pwa
+	          210	 16	pwa co to
+	          170	 10	ios pwa
+	          170	 10	pwa ios
+	          110	 34	react pwa
+	           90	 22	pwa developer
+	           90	 19	technologie pwa
+
+Non-PL	   4110	 25
+	          720	 32	dedicated development team
+	          480	 41	dedicated software development team
+	          260	 36	hire dedicated development team
+	          210	 33	dedicated development team services
+	          210	 17	hire dedicated developer
+	          170	 28	software development dedicated team
+	          140	 10	dedicated teams
+	          140	 25	hire dedicated software development team
+	          140	 26	hire dedicated software developers
+	          140	 40	hire software development team
+	          110	 33	hire development team
+	          110	 11	offshore dedicated team
+	           90	  6	dedicated team
+	           90	 31	dedicated software developers
+	           90	 19	dedicated development teams
+	           70	 35	dedicated software teams
+	           70	 41	hire a dev team
+	           70	 20	dedicated software engineers
+	           70	 34	dedicated software development teams
+	           70	  0	dedicated php development team
+	           50	 21	hiring dedicated development team
+	           50	 23	dedicated software development company
+	           50	  0	dedicated team of software development
+	           50	 25	dedicated software development
+	           50	 27	dedicated development company
+	           40	 26	dedicated engineering team
+	           40	 31	hire dedicated team
+	           40	 30	hire a dedicated development team
+	           40	 30	hire dedicated remote development team
+	           40	 32	hire a development team
+	           40	 29	dedicated development
+	           40	 26	dedicated team of developers
+	           40	 24	dedicated software team
+	           30	 26	dedicated team development
+	           30	 16	hire a dedicated developer
+	           30	 16	dedicated testing team
+
+Non-PL	   4070	 29
+	          880	 40	product design and development
+	          720	 28	product development services
+	          590	 30	software product development
+	          480	 18	product development companies
+	          480	 30	software product development services
+	          390	 38	software product development company
+	          390	 29	product development agency
+	          140	 21	product management services
+
+Non-PL	   4010	 24
+	          720	 30	iot companies
+	          260	 26	iot product development
+	          210	 40	internet of things development services
+	          210	 40	iot software development company
+	          210	 30	iot consulting companies
+	          210	 24	iot consulting firms
+	          170	 26	iot in retail
+	          170	 25	iot raspberry
+	          140	 41	iot software development services
+	          140	 20	internet of things software development
+	          140	 30	iot monitoring software
+	          140	 13	iot in property management
+	          110	 32	custom software development for iot
+	          110	 29	iot in retail industry
+	          110	 24	industrial iot companies
+	          110	  9	iot consulting
+	           90	 34	iot product development services
+	           70	 22	internet of things product development
+	           70	 12	iot for inventory management
+	           70	 10	iot in inventory management
+	           50	 12	custom iot solutions
+	           50	 32	iot solutions development
+	           50	 27	iot product development company
+	           50	 34	iot development companies
+	           50	 19	iot embedded systems
+	           40	 22	custom software solutions for internet of things
+	           40	  0	custom software development for internet of things
+	           40	 33	iot software solutions
+	           40	 12	iot product design
+	           40	 21	iot product development consulting
+	           40	 20	iot product development process
+	           30	 26	développement iot
+	           30	 23	internet of things case study
+
+    PL	   3940	 16
+	          480	 13	automatyzacja procesów biznesowych
+	          480	 14	integracja oprogramowania
+	          480	 23	testowanie oprogramowania
+	          390	 22	automatyzacja procesów
+	          210	 13	programowanie mikrokontrolerów
+	          170	 19	ddd programowanie
+	          170	 24	oprogramowanie dla produkcji
+	          170	 23	program do zarządzania produkcją
+	          170	  8	program do planowania produkcji
+	          140	 26	program do zarzadzania produkcja
+	          110	  9	integracja systemów
+	          110	 10	tworzenie oprogramowania
+	           90	 23	oprogramowanie warszawa
+	           90	 24	programy dla firm produkcyjnych
+	           90	 21	program zarządzanie produkcją
+	           90	 12	rozliczenie materiałów budowlanych program
+	           90	  5	wytwarzanie oprogramowania etapy
+	           90	 11	produkcja oprogramowania
+	           90	 11	specyfikacja techniczna oprogramowania
+	           90	 27	oprogramowanie do gastronomii
+	           70	 27	produkcja program
+	           70	  1	darmowy program do rozliczania budowy
+
+Non-PL	   3850	 27
+	          590	 39	fintech software development services
+	          590	 41	fintech software development company
+	          590	 40	fintech solutions
+	          590	 50	fintech trends
+	          320	 24	financial software development services
+	          170	 12	hire fintech developers
+	          140	 30	fintech development services
+	          140	 31	custom fintech software development
+	          140	 30	fintech development company
+	          140	 15	fintech software solutions
+	          110	 35	fintech software development companies
+	           90	 26	fintech application development services
+	           50	 38	custom fintech software development services
+	           40	  0	custom fintech software
+	           40	 21	software development for fintech
+	           40	 34	fintech software services
+	           40	  5	fintech web development
+	           30	 25	fintech solutions software development company
+
+    PL	   3680	 24
+	         2400	 26	business intelligence
+	          390	 29	business intelligence co to
+	          210	 15	system bi
+	          210	 22	business intelligence system
+	          110	 30	oprogramowanie business intelligence
+	           90	 16	business intelligence narzędzia
+	           90	 20	systemy klasy business intelligence
+	           90	 24	business intelligence co to jest
+	           90	 34	business intelligence services
+
+Non-PL	   3270	 41
+	         2400	 39	software quality assurance
+	          480	 41	what is quality assurance testing
+	          390	 44	what is quality assurance in software testing
+
+Non-PL	   3270	 18
+	          880	 16	white label apps
+	          880	 18	white label mobile app
+	          320	  6	white application
+	          210	 26	white label platform
+	          170	 26	white label app
+	          170	 11	white label mobile application
+	          140	 26	whitelabel software
+	          140	 20	white label mobile application
+	          110	 29	white label ai
+	           90	 23	white label application
+	           90	 11	white lable apps
+	           70	 14	whitelabel apps
+
+Non-PL	   3120	 35
+	         1300	 49	ai development company
+	          480	 45	ai software development services
+	          260	 58	generative ai healthcare
+	          210	 33	ai ml development services
+	          210	 35	ai/ml development services
+	          210	 47	generative ai consulting services
+	           90	 10	ai outsourcing
+	           70	 28	artificial intelligence development services
+	           70	 20	ai agent development company
+	           50	 42	artificial intelligence software development services
+	           50	  1	offshore artificial intelligence developers
+	           40	 41	custom ai development services
+	           40	 14	gen ai development services
+	           40	 72	ai solutions provider
+
+Non-PL	   2980	 51
+	          880	 67	flutter mobile app
+	          720	 50	flutter app development services
+	          590	 63	flutter apps
+	          320	 50	flutter development services
+	          110	 63	flutter mobile app development
+	          110	 49	flutter application development services
+	           90	 61	flutter applications
+	           90	 47	what is flutter app development
+	           40	  9	flutter enterprise app
+	           30	 51	flutter example apps
+
+    PL	   2950	 17
+	         2400	 27	modbus
+	          260	 14	modbus tcp ip
+	          110	 14	protokol modbus
+	          110	 17	protokół modbus
+	           70	 13	co to jest modbus
+
+Non-PL	   2940	 40
+	          590	 47	blockchain development agency
+	          210	 43	blockchain development companies
+	          170	 49	blockchain app development services
+	          170	 73	blockchain services
+	          170	 47	blockchain software development company
+	          140	 54	blockchain software development services
+	          140	 26	smart contract development services
+	          140	 45	cryptocurrency development services
+	          110	 60	blockchain development service
+	          110	 42	blockchain solutions development
+	          110	 39	blockchain software development
+	           90	 54	crypto development company
+	           90	 42	developing blockchain
+	           90	 59	custom blockchain development company
+	           70	 53	blockchain application development services
+	           50	 59	custom blockchain development
+	           50	 36	blockchain development firm
+	           50	 10	blockchain in software development
+	           40	 13	blockchain design agency
+	           40	 10	blockchain ux
+	           40	 52	blockchain technology services
+	           40	  0	blockchain technology solutions
+	           40	 51	blockchain development service provider
+	           40	 28	smart contract solutions
+	           30	 38	custom blockchain application development
+	           30	 41	blockchain app development company in usa
+	           30	 43	best blockchain development company
+	           30	 18	smart contracts development company
+	           30	 35	blockchain development software
+
+Non-PL	   2720	 20
+	          720	 17	devops as a service
+	          320	 47	aws devops services
+	          320	 32	devops consulting company
+	          210	 17	devops consulting services
+	          210	 24	devops companies
+	          210	 24	devops consulting companies
+	          210	 38	benefits of devops
+	          110	 21	aws devops consulting
+	           70	 14	devops consultancy
+	           70	 25	devops as a service companies
+	           70	  5	cloud devops consulting
+	           70	  7	outsource devops
+	           50	 13	devops engineering services
+	           50	  8	hire devops developers
+	           30	 14	top devops companies
+
+Non-PL	   2660	 32
+	          480	 25	react development company
+	          390	 31	node js development company
+	          390	 32	nodejs development company
+	          320	 30	node.js development company
+	          210	 28	react development services
+	          170	 33	reactjs web development company
+	          110	 32	node js app development company
+	          110	 68	node development
+	           90	 30	node js web development company
+	           90	 30	node js development service
+	           70	 32	nodejs development companies
+	           70	 33	node development company
+	           40	 27	node js development agency
+	           40	 53	node js company
+	           40	 33	react web development company
+	           40	  0	react development service
+
+Non-PL	   2610	 31
+	         1900	 20	automated data processing
+	          480	 27	business process automation services
+	           90	 46	enterprise automation software
+	           50	 53	bussiness automation
+	           50	 27	business process automation service
+	           40	 14	challenges of business process automation
+
+Non-PL	   2290	 30
+	         1900	 34	footer design
+	          390	 27	website footer design
+
+Non-PL	   2200	 31
+	          880	 35	react native vs native
+	          390	 31	native vs react native
+	          320	 53	react native mobile development
+	          210	 61	react native development
+	          140	 11	react native alternative
+	           70	 25	react native development agency
+	           70	 15	react native consulting
+	           50	  2	react native outsourcing
+	           40	  2	react native development outsourcing
+	           30	 79	reactnative dev
+
+Non-PL	   2130	 17
+	          390	 25	software migration
+	          390	 21	cloud migration companies
+	          260	 13	data migration framework
+	          210	 30	cloud migration consulting services
+	          210	 19	software migration software
+	          140	  6	cloud migration roadmap
+	           90	 14	cloud migration consulting
+	           70	 15	software migration services
+	           70	 34	application migration strategy
+	           70	  3	ecommerce migration case study
+	           50	 14	data center migration companies
+	           40	 21	cloud migration services companies
+	           40	 35	it migration services
+	           40	  0	software migration plan
+	           30	 18	software-migration
+	           30	 14	application migration plan
+
+Non-PL	   2050	 23
+	          880	 44	software maintenance
+	          320	 35	application service providers
+	          210	 15	application maintenance services
+	          210	 29	maintenance in software
+	          140	 18	application monitoring best practices
+	          110	 14	application maintenance and support services
+	           90	 13	it application support services
+	           90	 20	application support and maintenance services
+
+    PL	   2010	 30
+	         1900	 36	domain driven design
+	          110	 25	ddd domain driven design
+
+Non-PL	   1960	 29
+	          480	 66	software services company
+	          390	 26	cloud application development services
+	          210	 22	cloud app development services
+	          210	 15	saas cms
+	           90	 26	cloud development company
+	           90	 22	saas software development company
+	           70	 44	cloud software solution
+	           70	 17	consultant saas
+	           50	  0	saas software consulting
+	           50	 20	saas consulting services
+	           50	 38	how to build a saas product
+	           50	 67	saas cloud based solutions
+	           40	 27	cloud software development company
+	           40	 14	saas consultancy
+	           40	 46	build a saas
+	           30	 29	benefits of moving applications to cloud
+
+Non-PL	   1740	 35
+	         1600	 42	websites and applications
+	          140	 28	and apps
+
+    PL	   1700	 25
+	          720	 38	firma it
+	          320	 28	firmy it katowice
+	          260	 20	firmy it kraków
+	          260	 20	firmy it krakow
+	          140	 20	firmy it gliwice
+
+Non-PL	   1670	 16
+	          590	 26	fixed cost contract
+	          210	 16	time and material vs fixed price
+	          170	  6	time and materials vs fixed fee
+	           90	 17	time & material vs fixed price
+	           90	 10	fixed vs time and material pricing
+	           90	 10	time and materials versus fixed price
+	           70	 12	fixed price vs time and materials
+	           70	 16	fixed price contract vs time and material
+	           70	 15	time and materials vs fixed price
+	           70	  5	time and materials contract vs fixed price
+	           40	 31	fixed price project
+	           40	 14	fixed capacity model vs fixed price
+	           40	 29	time and material pricing
+	           30	 20	fixed price vs time and material
+
+Non-PL	   1640	 20
+	          590	 18	onshore vs offshore
+	          210	 18	nearshoring vs offshoring
+	          170	 29	outsourcing work
+	          140	 31	outsourcing vs. outstaffing
+	          110	 20	offshoring vs nearshoring
+	           90	 38	outsourcing/offshoring
+	           70	  5	wat is offshoring
+	           70	 15	offshoring betekenis
+	           70	 11	nearshore vs offshore outsourcing
+	           40	  0	it offshoring
+	           40	 27	what are the differences between outsourcing and offshoring
+	           40	 30	offshoring versus outsourcing
+
+Non-PL	   1640	 26
+	          260	 40	machine learning for predictive analytics
+	          260	 39	machine learning supply chain technology
+	          210	 33	machine learning predictive analytics
+	          210	 28	machine learning in supply chain
+	          170	 33	machine learning in predictive analytics
+	          110	 42	machine learning and predictive analytics
+	          110	 11	price optimization machine learning
+	           90	 33	machine learning and supply chain
+	           50	 31	predictive analytics and machine learning
+	           50	 10	machine learning in supply chain case study
+	           50	 16	pricing optimization machine learning
+	           40	  5	machine learning pricing optimization
+	           30	 24	machine learning pricing
+
+Non-PL	   1630	 30
+	          720	 37	system to system integration
+	          590	 17	erp system integration
+	          210	 31	system to system integration
+	           40	 34	integrating information systems
+	           40	 30	software integration service
+	           30	 31	it intergration
+
+    PL	   1610	 17
+	          320	 23	firmy informatyczne katowice
+	          320	  9	oprogramowanie dla firm
+	          320	  6	obsługa informatyczna firm
+	          260	 23	firmy informatyczne kraków
+	           90	 14	firmy informatyczne w polsce
+	           90	 25	firmy informatyczne gliwice
+	           70	 21	firmy komputerowe w krakowie
+	           70	 14	firma konsultingowa it
+	           70	 22	firmy informatyczne bielsko
+
+Non-PL	   1550	 27
+	         1000	 49	baremetal
+	          320	 30	baremetal
+	           90	 21	what is bare metal programming
+	           70	 20	bare metal c
+	           70	 18	bare metal programming
+
+Non-PL	   1540	 25
+	          390	 23	enterprise mobile app development
+	          320	 32	enterprise mobile app development company
+	          140	 33	enterprise mobile apps
+	          140	 23	enterprise mobile application
+	           90	 39	corporate app developers
+	           90	  9	corporate fitness apps
+	           70	 24	enterprise mobile applications
+	           70	 25	mobile enterprise app
+	           70	 26	app business model
+	           50	 35	mobile apps for companies
+	           50	 38	mobile apps business
+	           30	 10	mobile enterprise application
+	           30	 11	enterprise mobile app development platforms
+
+Non-PL	   1540	 25
+	          390	 40	application wearable
+	          140	 46	apps for wearables
+	          140	 24	iot and wearables
+	          140	 26	wearable sports technology
+	          110	 22	iot in wearables
+	          110	 24	internet of things wearables
+	          110	 21	iot and wearable technology
+	          110	 24	iot wearable devices
+	          110	 28	iot wearable technology
+	           50	 22	wearables in iot
+	           50	 25	wearable iot
+	           40	 13	healthcare wearable app development
+	           40	 17	wearable sports tech
+
+    PL	   1520	 32
+	          590	 45	pwa progressive web app
+	          590	 43	progressive web app
+	          170	 15	progressive web apps co to
+	          170	 27	progressive web app ios
+
+Non-PL	   1460	 34
+	          480	 44	it system testing
+	          480	 40	integration and system testing
+	          170	 25	functional testing vs integration testing
+	          170	 35	functional vs integration testing
+	          110	 31	integration testing vs system integration testing
+	           50	 29	integration testing vs functional testing
+
+Non-PL	   1450	 37
+	          480	 34	poc meaning business
+	          260	 56	poc concept
+	          210	 28	poc meaning in business
+	          110	 33	what is poc in business
+	           90	 33	poc abbreviation business
+	           90	 31	poc means in business
+	           90	 28	poc software development
+	           70	 47	poc tech meaning
+	           50	 51	poc it meaning
+
+Non-PL	   1430	 42
+	          320	 92	chatbot services
+	          260	 39	chatbot solutions
+	          210	 17	custom gpt ai chatbot solutions
+	          170	 18	conversational ai in banking
+	          140	 50	ai chatbot solutions
+	          140	 31	chatbot as a service
+	           70	 63	customer service ai chatbots
+	           40	 54	chat bot for customer service
+	           40	 15	voicebot solutions
+	           40	 43	voice user interfaces
+
+Non-PL	   1380	 44
+	          880	 54	app programming ios
+	          320	 25	ios development language
+	           50	 54	mobile app development ios
+	           40	 44	mobile ios app development
+	           30	 46	developing ios applications
+	           30	 66	development of ios
+	           30	 20	development team ios
+
+Non-PL	   1360	 12
+	          880	 11	cutting-edge smart devices
+	          480	 13	cutting-edge green tech
+
+Non-PL	   1320	 36
+	         1000	 46	sw testing types
+	          210	 47	sw quality assurance
+	          110	 17	sw engineering services
+
+    PL	   1300	 15
+	          260	 22	firma outsourcingowa
+	          170	 15	firma outsourcingowa co to
+	          140	 14	it outsourcing
+	          140	 30	information technology outsourcing
+	          110	 18	outsourcing usług it
+	           90	 10	outsourcing pracowników it
+	           90	  6	software outsourcing agreement
+	           90	 22	outsourcing it wrocław
+	           70	 14	it project outsourcing
+	           70	 10	firmy outsourcingowe it w polsce
+	           70	 14	korzyści płynące z outsourcingu
+
+Non-PL	   1280	 40
+	          720	 59	minimum viable product definition
+	          390	 17	minimum viable launch consumer app
+	          170	 45	minimum viable product software development
+
+Non-PL	   1280	 36
+	          260	 19	progressive web app development services
+	          260	 73	progressive web app development
+	          260	 15	progressive web app development company
+	          210	 74	what is a progressive app
+	           70	 74	progressive web apps what is
+	           50	 13	progressive web application development service
+	           50	 23	progressive web app agency
+	           40	 28	benefits of progressive web apps
+	           40	 21	progressive web app developers
+	           40	 25	progressive web apps development company
+
+Non-PL	   1250	 36
+	          390	 39	cloud adoption
+	          320	 53	cloud computing trends
+	          260	 48	cloud trends
+	          170	 10	cloud transformation strategy
+	          110	 30	cloud adoption strategy
+
+Non-PL	   1190	 16
+	          720	 26	data engineering services
+	          260	 32	data warehouse consulting
+	           90	 18	data engineering services
+	           50	 20	data engineering consultant
+	           40	  0	data lake consulting services
+	           30	  3	data engineering outsourcing
+
+Non-PL	   1190	 62
+	          590	 79	electron js
+	          390	 73	electronjs
+	          140	 79	electron.js
+	           70	 18	flutter vs electron
+
+Non-PL	   1170	 13
+	          480	 27	hire java developers
+	          260	 36	java development services
+	          140	 22	java developers for hire
+	          110	  5	outsource java development
+	           90	  6	java development outsourcing
+	           50	  0	hire apache spark developers
+	           40	  0	java consulting services
+
+Non-PL	   1110	 14
+	          210	 18	front end design
+	          170	 22	frontend development services
+	          170	 20	hire frontend developers
+	          110	 12	front end development company
+	           90	 17	hire frontend developer
+	           70	 16	front end web development company
+	           70	  8	top frontend development agency
+	           50	 19	front-end development company
+	           50	 11	frontend development agency
+	           40	  0	design and front-end development
+	           40	 19	design front end
+	           40	 12	hire dedicated frontend developers
+
+Non-PL	   1090	 25
+	          720	 31	outsourcing companies
+	          210	 48	what is outsourcing company
+	           50	  5	offshore outsourcing companies
+	           40	 33	what is an outsourcing company
+	           40	 13	global outsourcing agency
+	           30	 23	top 50 outsourcing companies
+
+Non-PL	   1090	 23
+	          480	 14	machine learning companies
+	          260	 35	machine learning consulting services
+	          110	 14	top machine learning companies
+	           90	 30	machine learning consulting company
+	           70	 22	data mining service
+	           50	 35	machine learning consulting service
+	           30	 14	ml consultant services
+
+Non-PL	   1070	 20
+	          590	 27	data visualization services
+	          140	 12	data visualization companies
+	          140	 26	iot visualization
+	          110	 17	data visualization iot
+	           90	 20	what is data visualization in iot
+
+Non-PL	   1040	 39
+	          720	 47	event storming
+	          320	 32	event storming
+
+Non-PL	   1010	 43
+	          390	 65	pwa applications
+	          320	 35	pwa in ios
+	          170	 71	pwa development
+	           70	 17	pwa development services
+	           30	 41	aplikacja pwa
+	           30	 31	benefits of pwa
+
+    PL	   1000	 13
+	         1000	 13	customer journey map
+
+Non-PL	    980	 27
+	          390	 29	cto as a service
+	          320	 28	cto as a service
+	          110	 23	soc as a service companies
+	           90	 25	cto as a service for startups
+	           40	 33	cto-as-a-service
+	           30	 28	cto as-a-service
+
+Non-PL	    970	 21
+	          720	 25	application scale
+	          110	 37	application scaling
+	           90	 22	website scaling
+	           50	  0	startup web application scalability
+
+Non-PL	    940	 21
+	          260	 18	proof of concept vs prototype
+	          260	 13	prototype companies
+	          170	 20	poc vs prototype
+	          140	 27	mvp vs prototype
+	          110	 27	prototype vs mvp
+
+Non-PL	    930	 25
+	          320	 29	automated regression testing
+	          260	 22	manual testing services
+	          170	 27	automated software testing service
+	          140	 24	interface testing tools
+	           40	 23	web testing services
+
+Non-PL	    910	 61
+	          480	 52	uiux designer
+	          320	 56	uxui
+	          110	 75	ui uxx
+
+Non-PL	    900	 37
+	          480	 53	microcontroller cpu
+	          260	 52	what is a microcontroller
+	           90	 29	embedded microcontroller
+	           70	 17	programmable microcontrollers
+
+Non-PL	    900	 16
+	          320	 16	software delivery
+	          260	 18	product delivery
+	          170	 17	software feature delivery
+	          110	 17	product delivery manager
+	           40	 13	agile product delivery
+
+    PL	    890	 12
+	          720	 13	platformy chmurowe
+	          170	 12	usługi chmurowe
+
+Non-PL	    880	 30
+	          480	 33	wordpress speed optimization service
+	          170	 28	wordpress optimization service
+	          140	 30	wordpress speed optimization services
+	           90	 29	wordpress mobile optimization
+
+Non-PL	    810	 30
+	          720	 45	sports tracking software
+	           50	 47	sports team management apps
+	           40	  0	sports software development
+
+    PL	    780	 10
+	          480	 12	co to jest kotlin
+	          210	 11	kotlin co to
+	           90	  9	kotlin co to jest
+
+    PL	    760	  5
+	          480	 27	nb iot
+	           70	  0	nb iot advantages
+	           70	  0	nb iot network architecture
+	           70	  0	nb iot solutions
+	           70	  0	nb iot antenna
+
+Non-PL	    750	 25
+	          210	 26	net vs java
+	          170	 24	java vs .net
+	          140	 26	java vs net framework
+	           70	 25	java vs net
+	           70	 28	java vs .net framework
+	           50	 26	java versus .net
+	           40	 26	node.js vs java
+
+Non-PL	    730	 40
+	          480	 48	how much is it to make an app breakdown
+	          110	 44	how much does it cost to build an application
+	           90	 20	web app development cost
+	           50	 49	how much does it cost to build an application
+
+    PL	    720	 63
+	          720	 63	electron javascript
+
+Non-PL	    720	 29
+	          720	 29	semaphore vs mutex
+
+    PL	    710	 17
+	          480	 24	it solutions
+	           90	 19	it consulting services near me
+	           70	 20	it development
+	           70	  5	consulting for it
+
+Non-PL	    700	 65
+	          590	 66	sla stands for
+	          110	 65	sla meaning in tech
+
+Non-PL	    700	 33
+	          320	  5	llm product development
+	          210	 38	llm agency
+	          170	 56	llm finetuning
+
+Non-PL	    690	 16
+	          390	 42	backend services
+	          140	 26	backend services
+	           70	 16	backend service
+	           50	  0	how to create backend services for web apps
+	           40	  0	backend konsult
+
+Non-PL	    670	 31
+	          260	 31	pagination examples
+	          170	 29	pagination sample
+	          170	 29	sample pagination
+	           70	 38	pagination web
+
+Non-PL	    660	 27
+	          260	 28	green coding
+	          210	 21	clear coding
+	          110	 34	green coding
+	           50	 16	greenhouse coding
+	           30	 38	quality coding
+
+Non-PL	    660	 36
+	          390	 52	microservices vs monolithic
+	           90	 32	monolith to microservices migration
+	           50	 30	modular monolith vs microservices
+	           50	 39	monolith vs microservices pros and cons
+	           50	 36	monolithic to microservices
+	           30	 28	difference between monolithic and microservices
+
+    PL	    650	 20
+	          260	 29	managed it services
+	          210	 15	managed services
+	           90	  8	managed services sla
+	           90	 31	service request management system
+
+Non-PL	    650	 27
+	          260	 33	internet of things for smart cities
+	          110	 26	internet of things and energy
+	           90	 35	internet of things and smart cities
+	           70	 41	smart cities and the internet of things
+	           50	 33	internet of things smart cities
+	           40	 14	internet of energy
+	           30	  9	internet of things barcelona
+
+    PL	    640	 20
+	          320	 29	vendor lock in
+	          320	 11	vendor lock
+
+Non-PL	    640	 29
+	          320	 21	web developer for travel agency
+	          140	 18	travel industry software
+	          110	 19	travel software development company
+	           70	 60	mobile travel app
+
+Non-PL	    630	 20
+	          590	 33	it projects
+	           40	  7	it projecten
+
+Non-PL	    630	 17
+	          170	 10	software development services for startups
+	          140	 15	startup consulting firms
+	           90	 18	consultancy for startups
+	           90	 20	startup consulting services
+	           40	 14	startup it consulting
+	           40	 28	startup consultancy
+	           30	 15	custom software development services for startups
+	           30	 22	business startup consulting services
+
+Non-PL	    600	 36
+	          320	 39	is it worth it to make custom gpts
+	          170	 35	what is a custom gpt
+	          110	 34	what are custom gpts
+
+Non-PL	    600	 19
+	          320	 14	ecommerce software development
+	          170	 20	software development for managers
+	          110	 23	inventory management software development
+
+    PL	    590	  9
+	          590	  9	body leasing
+
+Non-PL	    590	 24
+	          590	 24	best building construction websites
+
+Non-PL	    590	 22
+	          140	 27	iiot industry 4.0
+	          140	 31	iot industry 4.0
+	          110	 17	industry 4.0 and iiot
+	          110	 26	industry 4.0 and internet of things
+	           90	 12	industry 4.0 certification
+
+Non-PL	    580	 16
+	          110	 16	bluetooth vs bluetooth le
+	          110	 23	esp32 bluetooth le
+	           90	 49	application for bluetooth
+	           70	 10	bluetooth le audio transmitter
+	           70	  7	bluetooth le sensor
+	           50	  0	bluetooth application for android
+	           50	 21	flutter bluetooth le
+	           30	  6	bluetooth le transmitter
+
+    PL	    570	 35
+	          480	 40	framework javascript
+	           90	 30	javascript frontend and backend
+
+Non-PL	    570	 13
+	          390	 38	software prototyping
+	           90	  8	software ideation
+	           50	  4	software prototyping services
+	           40	  5	prototyping and engineering services
+
+Non-PL	    550	 23
+	          210	 10	outsource python development
+	          110	 32	python software development company
+	           90	 26	python development agency
+	           70	 36	python development firm
+	           70	 12	offshore python developers
+
+Non-PL	    530	 35
+	          320	 36	server side rendering
+	          140	 36	server side rendering vs client side rendering
+	           70	 33	client side vs server side rendering
+
+Non-PL	    530	 24
+	          390	 18	drupal development services
+	          140	 30	django development services
+
+    PL	    520	 27
+	          320	 23	angular vs react
+	          110	 23	react vs vue vs angular
+	           90	 35	reactjs vs react
+
+Non-PL	    520	 15
+	           90	 19	nearshoring companies
+	           70	 18	nearshoring it
+	           50	 19	nearshoring services
+	           50	 21	nearshoring partner
+	           50	  7	wat is nearshoring
+	           50	 12	benefits of nearshoring
+	           40	 18	near shoring
+	           30	 11	nearshoring team
+	           30	 20	nearshoring software
+	           30	 10	nearshoring it
+	           30	 10	it nearshoring
+
+Non-PL	    510	 11
+	          320	 22	nearshore development
+	           50	  4	nearshore software development europe
+	           40	 12	what is nearshore software development
+	           40	 22	nearshore entwicklung
+	           30	  8	agile nearshore software development
+	           30	  3	agile software development nearshore
+
+Non-PL	    490	 30
+	          210	 32	redux vs context
+	          140	 33	react context vs redux
+	           70	 25	react redux vs
+	           70	 33	context vs redux
+
+    PL	    480	 13
+	          480	 13	time material
+
+Non-PL	    480	 25
+	          210	 34	energy storage systems for solar power
+	          140	 41	energy management systems definition
+	           50	 35	energy storage software
+	           40	 14	energy software development
+	           40	  5	custom energy management software development
+
+Non-PL	    480	 14
+	          110	 19	discovery workshop
+	           90	 26	design discovery
+	           50	 26	ux discovery workshop
+	           50	 17	product discovery workshop
+	           50	  6	product scoping session
+	           40	 13	product strategy workshop
+	           30	 12	discovery workshop ux
+	           30	  6	discovery workshop template
+	           30	  7	product design workshop
+
+Non-PL	    480	 30
+	          320	 35	software rewrite
+	           70	 14	rewrite application
+	           40	 49	rewriting apps
+	           30	 55	rewriting app
+	           20	  0	rewriting legacy applications
+
+Non-PL	    480	 16
+	          480	 16	search results ui page
+
+Non-PL	    480	 29
+	          480	 29	iphone vs android users
+
+Non-PL	    480	 30
+	          480	 30	information sample site
+
+Non-PL	    480	 19
+	          480	 19	system integrator companies
+
+    PL	    470	 25
+	          140	 54	aws iot
+	          110	 56	aws iot core
+	           70	 41	aws iot actions
+	           50	  0	aws iot sdk
+	           50	  0	aws iot lambda
+	           50	  0	aws iot core pricing
+
+Non-PL	    470	  8
+	          110	  2	tworzenie aplikacji
+	           50	  0	tworzenie aplikacji webowych
+	           50	 23	mobile development company poland
+	           40	 18	aplikacje mobilne dla firm
+	           40	 25	firma tworząca aplikacje mobilne
+	           40	  7	tworzenie aplikacji mobilnych
+	           40	  6	projektowanie aplikacji
+	           40	  0	aplikacje internetowe warszawa
+	           30	  0	dedykowanie aplikacje internetowe
+	           30	  0	dedykowane aplikacje internetowe
+
+    PL	    460	 36
+	          210	 56	app development
+	           90	 24	web and mobile app
+	           90	 13	tailor made app
+	           70	 52	app development services
+
+    PL	    460	 18
+	          210	 22	it partners
+	          110	 18	technology partners
+	           70	 13	it partnership solution
+	           70	 21	it network services company
+
+Non-PL	    460	 21
+	          210	 28	digital transformation consultants
+	          140	 29	digital transformation consulting companies
+	          110	  7	top digital transformation companies
+
+Non-PL	    460	 39
+	          210	 46	project management for it
+	          140	 50	managing it projects
+	           70	 24	sla project management
+	           40	 38	process of software project management
+
+Non-PL	    460	 20
+	          390	 28	computer software engineer companies
+	           70	 12	recruiting software engineers
+
+Non-PL	    450	 22
+	          210	 26	ai use cases in ecommerce
+	          210	 39	ai demand forecasting
+	           30	  1	ai in inventory management case study
+
+    PL	    440	 19
+	          260	 27	server side rendering
+	          110	 11	server side
+	           70	 19	client side rendering server side rendering
+
+    PL	    440	 17
+	          260	 21	przypomnienie o lekach
+	           90	 15	przypominacz o lekach
+	           90	 15	kalendarz na leki
+
+Non-PL	    440	 33
+	          320	 59	applications for medical
+	           90	 16	medical ux
+	           30	 24	mobile healthcare apps
+
+Non-PL	    430	 21
+	          140	 31	on demand services
+	           50	 29	on demand apps
+	           50	  0	on demand it services
+	           40	 12	hire on demand developers
+	           40	 40	on demand app development services
+	           40	 42	on-demand app development company
+	           40	  8	on-demand service marketplace solution
+	           30	  6	on demand developers
+
+Non-PL	    430	 17
+	          210	 14	mobile app development consulting
+	          170	 20	mobile development consulting
+	           50	 19	application development consultants
+
+Non-PL	    430	 19
+	          260	 17	vite vs create react app
+	          170	 22	vite vs react
+
+Non-PL	    420	 15
+	          210	 13	healthcare it outsourcing
+	          140	 12	healthcare software as a service
+	           40	 22	medical device software development services
+	           30	 15	medical saas companies
+
+    PL	    410	 13
+	           90	  8	agile bespoke software
+	           90	 14	bespoke software developers
+	           90	 21	quality business software
+	           70	 15	bespoke business software development
+	           70	  8	effective software development
+
+    PL	    410	 13
+	          320	 13	node js co to
+	           90	 14	node js czy warto
+
+Non-PL	    400	 26
+	          260	 29	software stress testing
+	          140	 23	what is software stress testing
+
+    PL	    390	 18
+	          140	 22	obsługa it
+	          110	 14	wroclaw it
+	           70	 19	it poland
+	           70	 19	it katowice
+
+Non-PL	    390	 20
+	          320	 15	angular development services
+	           40	  4	custom angular development
+	           30	 41	angular software development
+
+Non-PL	    390	 31
+	          320	 31	times and material
+	           70	 31	price material
+
+Non-PL	    390	 38
+	          390	 38	analog design
+
+    PL	    380	 21
+	          110	 54	best crm
+	           90	 17	crm dobry
+	           90	 13	crm prezentacja
+	           90	  3	crm dla firmy budowlanej
+
+Non-PL	    380	 18
+	          140	 27	it blogs
+	          110	 31	blog of technology
+	           90	 14	it services blog
+	           40	  0	technological blog
+
+Non-PL	    370	 13
+	          110	  2	software house warszawa
+	           90	 22	software development poland
+	           50	 11	software nearshoring to poland
+	           40	 21	custom software development poland
+	           40	  8	software house szczecin
+	           40	 14	software development eastern europe
+
+Non-PL	    370	 21
+	          140	 12	t&m vs fixed price
+	          140	 30	t&m basis
+	           50	 10	t&m contract vs fixed price
+	           40	 33	t&m price
+
+Non-PL	    350	 23
+	          170	 26	real estate software companies
+	          140	 21	real estate software development
+	           40	 23	real estate software development companies
+
+Non-PL	    350	 12
+	          210	 11	remote it support companies
+	          140	 13	it vendors
+
+Non-PL	    340	 18
+	          140	 11	machine vision vs computer vision
+	          110	 30	computer vision development company
+	           90	 14	computer vision company
+
+Non-PL	    340	 13
+	           90	 11	software development contract
+	           70	 26	industry best practices for software development
+	           50	  4	fixed price software development
+	           50	 16	risks in software development
+	           40	  8	fixed cost software development
+	           40	 18	software development budget
+
+Non-PL	    340	 35
+	          170	  6	hire golang programmers
+	          170	 65	go development
+
+Non-PL	    330	 18
+	           70	 26	usability testing for mobile applications
+	           50	  2	android mobile app quality assurance
+	           50	 20	mobile application optimization
+	           50	 26	mobile app optimisation
+	           40	  5	mobile app quality assurance
+	           40	 38	data analytics for mobile apps
+	           30	 14	mobile application quality assurance
+
+    PL	    320	 50
+	          320	 50	zephyr os
+
+    PL	    320	  7
+	          320	  7	product discovery
+
+Non-PL	    320	 34
+	          320	 34	how to integrate openai assitant
+
+Non-PL	    320	  4
+	          320	  4	gdpr compliance for saas platform owners
+
+Non-PL	    320	 39
+	          260	 49	on device ai
+	           30	 43	edge ai devices
+	           30	 25	best edge ai
+
+Non-PL	    320	 44
+	          320	 44	augmented reality mobile application
+
+Non-PL	    310	 45
+	           70	 41	how much does it cost to build an ecommerce website
+	           70	 55	ecommerce website costs
+	           70	 44	cost of creating an ecommerce website
+	           50	 44	how much does it cost to make an ecommerce website
+	           50	 41	how much does it cost to build an ecommerce site
+
+Non-PL	    300	 31
+	          260	 31	minimum lovable product
+	           40	 31	mlp minimum lovable product
+
+Non-PL	    300	 23
+	          260	 15	nft marketplace development services
+	           40	 32	marketplace development services
+
+Non-PL	    290	 19
+	          140	 18	chatgpt integration services
+	          110	 40	chatgpt integrations
+	           40	  0	chatgpt integration companies
+
+Non-PL	    290	 25
+	          110	 25	elearning software development
+	           90	 24	e-learning software development company
+	           90	 27	education software development companies
+
+Non-PL	    290	 17
+	          260	 11	is javascript still used in 2024
+	           30	 24	frontend technologies 2024
+
+Non-PL	    280	 25
+	          140	 13	it strategy consulting
+	           70	 28	aws consulting companies
+	           70	 34	it consulting companies
+
+Non-PL	    280	 28
+	          170	 15	mobi development
+	          110	 41	app for mobi
+
+Non-PL	    270	 32
+	          170	 33	saas and crm
+	           70	 57	good crm
+	           30	  7	customer acquisition software
+
+Non-PL	    270	 15
+	          110	  4	database management companies
+	           90	 33	data service provider
+	           70	  8	database management company
+
+Non-PL	    270	 13
+	          140	 35	software agentur
+	           50	  3	react agentur
+	           40	  2	react native agentur
+	           40	 15	usability agentur
+
+Non-PL	    270	 37
+	           90	 34	react performance optimization
+	           90	 38	react performance
+	           90	 39	advantages of react
+
+Non-PL	    260	 33
+	          110	 43	project estimation methods techniques
+	           70	 33	software development estimation techniques
+	           50	 33	software estimation methods
+	           30	 26	software project estimate
+
+Non-PL	    260	 12
+	          170	 12	team extension
+	           50	 13	software team extension
+	           40	 12	team extension services
+
+Non-PL	    260	 26
+	           70	 34	latest web development technologies
+	           70	 33	technologies for website development
+	           70	  7	web dev solutions
+	           50	 33	current web development technologies
+
+Non-PL	    260	 37
+	          260	 37	image identifier software
+
+Non-PL	    260	 15
+	          170	 12	cloud computing in manufacturing
+	           90	 19	auditing in cloud computing
+
+Non-PL	    260	 45
+	          260	 45	what is smart grid
+
+Non-PL	    260	 16
+	          260	 16	it documentation
+
+    PL	    250	 13
+	           90	 20	ux ui audit
+	           90	 14	ux i ui co to
+	           70	  7	ba ux
+
+Non-PL	    250	 22
+	          140	 22	futuristic website
+	          110	 23	futuristic web
+
+Non-PL	    250	 26
+	          170	 25	hire net developer
+	           40	 53	hire development
+	           40	  0	best way to hire technical staff
+
+Non-PL	    250	 17
+	          140	 15	software as a service vs on premise
+	          110	 19	on premise software vs saas
+
+Non-PL	    240	  5
+	          210	 10	body leasing
+	           30	  0	body leasing
+
+Non-PL	    240	 34
+	          210	 41	how to promote mobile app
+	           30	 27	mobile app ad networks
+
+Non-PL	    240	 11
+	          210	 20	drupal vs wordpress
+	           30	  2	wordpress vs custom website
+
+    PL	    230	  7
+	           90	 11	erp legacy system integration
+	           70	  5	porównanie systemów erp
+	           70	  5	systemy erp ranking
+
+    PL	    230	 11
+	          140	 12	low code co to
+	           90	 11	platforma low code
+
+    PL	    230	 26
+	          140	 26	mvp minimum valuable product
+	           90	 26	minimum valuable product
+
+    PL	    230	 13
+	          140	 14	nearshoring co to
+	           90	 13	it nearshoring
+
+Non-PL	    230	  7
+	           70	 11	firma programistyczna
+	           70	  5	producent oprogramowania
+	           50	  8	rozwój oprogramowania
+	           40	  5	wytwarzanie oprogramowania
+
+    PL	    210	 14
+	          210	 14	staff augmentation
+
+    PL	    210	 23
+	           70	 19	iot in aviation
+	           70	 23	iot in finance
+	           70	 27	iot in hospitality
+
+Non-PL	    210	 37
+	          140	 16	best embedding models
+	           70	 59	embeddes systems
+
+Non-PL	    210	 19
+	          140	 20	poc vs mvp
+	           70	 19	mvp vs poc
+
+Non-PL	    210	 52
+	          210	 52	mobile accessibility
+
+Non-PL	    210	 59
+	          210	 59	deep learning applications
+
+    PL	    200	 20
+	          110	 23	wdrożenia magento
+	           90	 18	laravel poland
+
+Non-PL	    200	 12
+	          110	 13	end to end it solutions
+	           30	 11	end to end development
+	           30	 12	end-to-end development
+	           30	 14	end to end software development
+
+Non-PL	    200	  4
+	           90	  0	rust smart contract auditing services
+	           70	  0	rust smart contract auditing service
+	           40	 14	rust smart contract audit company
+
+Non-PL	    200	 27
+	          110	 29	big data strategy
+	           90	 26	big data in agriculture
+
+Non-PL	    190	 34
+	          110	 41	eaa accessibility
+	           50	 29	eaa compliance
+	           30	 32	eaa european accessibility act
+
+Non-PL	    190	 41
+	          140	 35	smart router
+	           50	 48	smart routers
+
+    PL	    180	  9
+	           90	 13	front end development outsourcing
+	           90	  5	web outsourcing team
+
+    PL	    180	 19
+	           90	 24	iot adoption
+	           90	 15	iot adoption barriers
+
+    PL	    180	  6
+	           90	  6	scrum poc
+	           90	  7	zespół scrum
+
+    PL	    180	 20
+	           90	 19	amazon web services poland
+	           90	 22	usługi amazon
+
+    PL	    180	 23
+	           90	 32	website content migration plan
+	           90	 15	website redesign plan
+
+Non-PL	    180	 23
+	          110	 23	automotive software development company
+	           40	 16	automotive data analytics services
+	           30	 30	ev software companies
+
+Non-PL	    170	 18
+	           40	 26	software code audit
+	           40	 24	code quality audit
+	           30	 15	code audit services
+	           30	 25	code audit service
+	           30	  0	low code consulting
+
+Non-PL	    170	 33
+	          140	 28	advertising tech company
+	           30	 38	advertising tech
+
+Non-PL	    170	 28
+	          170	 28	mobile game companies
+
+Non-PL	    170	  5
+	          170	  5	website redesign services
+
+Non-PL	    170	 68
+	          170	 68	continuous integration deployment
+
+Non-PL	    160	  7
+	          110	  7	ssr graphics
+	           50	  8	graphics ssr
+
+Non-PL	    150	 36
+	          110	 40	firebase backend
+	           40	 32	is firebase a framework
+
+    PL	    140	 31
+	           70	 34	fintech software
+	           70	 28	financial software services
+
+    PL	    140	 23
+	           70	 22	iot food supply chain
+	           70	 24	iot agriculture sensors
+
+    PL	    140	 62
+	          140	 62	nodejs development
+
+    PL	    140	  8
+	          140	  8	proof of concept co to
+
+    PL	    140	 21
+	          140	 21	technologie webowe
+
+    PL	    140	  6
+	           70	  7	iot lamp
+	           70	  5	iot office furniture
+
+Non-PL	    140	 26
+	           70	 28	web3 design agency
+	           40	 27	web3 design studio
+	           30	 25	web3 development firm
+
+Non-PL	    140	 50
+	          110	 50	cloud based disaster recovery service
+	           30	 50	cloud disaster recovery service
+
+Non-PL	    140	 16
+	           40	 20	entertainment app development company
+	           40	  7	media & entertainment software development
+	           30	 21	entertainment app development
+	           30	 19	entertainment app development services
+
+Non-PL	    140	 25
+	          140	 25	genai development services
+
+Non-PL	    140	 22
+	          140	 22	white label nft marketplace
+
+Non-PL	    130	 33
+	           50	 40	climate-tech
+	           50	 40	climate tech
+	           30	 19	climate change software
+
+Non-PL	    130	 21
+	           90	 21	custom insurance software development
+	           40	 21	insurance software development companies
+
+Non-PL	    130	  2
+	           50	  0	fixed price it support
+	           40	  1	ongoing it support
+	           40	  6	ongoing support and maintenance
+
+Non-PL	    120	 41
+	           90	 38	coding for quantum computers
+	           30	 44	quantum computer coding
+
+Non-PL	    120	 25
+	           70	 18	zephyr vs freertos
+	           50	 33	zephyr operating system
+
+Non-PL	    120	 19
+	           70	 14	tech teams
+	           50	 25	sourcing tech
+
+    PL	    110	 50
+	          110	 50	amazon server services
+
+    PL	    110	 15
+	          110	 15	projekt it
+
+Non-PL	    110	 15
+	          110	 15	bodyleasing
+
+Non-PL	    110	 59
+	          110	 59	proof of conept
+
+Non-PL	    110	 55
+	          110	 55	service legal agreement
+
+    PL	    100	  4
+	           70	  9	software house co to jest
+	           30	  0	czym jest software house
+
+Non-PL	    100	 29
+	           70	 34	next js wordpress
+	           30	 25	wordpress next js
+
+Non-PL	    100	 22
+	           70	 19	offshore outsourcing benefits
+	           30	 26	benefits of offshore outsourcing
+
+    PL	     90	 23
+	           90	 23	awservice
+
+    PL	     90	 46
+	           90	 46	aws cloud partners
+
+    PL	     90	 22
+	           90	 22	build custom cms
+
+    PL	     90	 37
+	           90	 37	ai & chatbot customer experience
+
+    PL	     90	  5
+	           90	  5	hire dedicated java developer
+
+    PL	     90	 23
+	           90	 23	ongoing it support
+
+    PL	     90	 14
+	           90	 14	usability consultant
+
+    PL	     90	  9
+	           90	  9	automotive iot security
+
+    PL	     90	 10
+	           90	 10	nrf52 iot
+
+    PL	     90	 10
+	           90	 10	smart traffic control system using iot
+
+    PL	     90	 33
+	           90	 33	corporate automation
+
+    PL	     90	 30
+	           90	 30	test case example for manual testing
+
+    PL	     90	 43
+	           90	 43	software requirement specification
+
+    PL	     90	 41
+	           90	 41	mobile app automation testing using appium
+
+    PL	     90	 17
+	           90	 17	is firebase good for startups
+
+    PL	     90	 23
+	           90	 23	software in house vs outsourcing
+
+    PL	     90	  7
+	           90	  7	new technologies in tourism
+
+Non-PL	     90	  2
+	           30	  0	crm dla firmy
+	           30	  0	crm dla dużej firmy
+	           30	  8	erp dla dużych firm
+
+Non-PL	     90	 65
+	           90	 65	service level agreemen
+
+Non-PL	     90	 24
+	           50	 24	what is a fixed budget
+	           40	 24	what is fixed budget
+
+Non-PL	     90	 34
+	           90	 34	flutter fvm
+
+Non-PL	     90	 34
+	           90	 34	native aws
+
+Non-PL	     90	 20
+	           90	 20	gitlab vs jira
+
+Non-PL	     90	 15
+	           90	 15	business analysis project
+
+Non-PL	     90	 13
+	           90	 13	software test automation engineer
+
+    PL	     70	 10
+	           70	 10	fixed price co to
+
+    PL	     70	 11
+	           70	 11	legacy it
+
+    PL	     70	 51
+	           70	 51	mosquitto client
+
+    PL	     70	 17
+	           70	 17	fixed cost vs time and materials
+
+    PL	     70	 16
+	           70	 16	iot engineer
+
+    PL	     70	 16
+	           70	 16	budgeting in scrum
+
+    PL	     70	 31
+	           70	 31	ioot
+
+    PL	     70	 25
+	           70	 25	agile vs kanban vs scrum
+
+Non-PL	     70	  8
+	           40	 12	drupal consultants
+	           30	  5	data collection consultants
+
+Non-PL	     70	 52
+	           70	 52	digital currency services
+
+Non-PL	     70	  9
+	           70	  9	mlops as a service
+
+Non-PL	     70	 37
+	           70	 37	use cases for aws
+
+Non-PL	     70	  0
+	           70	  0	best energy management systems for ev fleets
+
+Non-PL	     70	 19
+	           70	 19	kosten app laten maken
+
+Non-PL	     70	  5
+	           70	  5	it-service berlin
+
+Non-PL	     70	 22
+	           70	 22	best book website design
+
+Non-PL	     70	 12
+	           70	 12	logistics app development
+
+Non-PL	     60	 15
+	           30	  0	dedicated application
+	           30	 30	dedicated app
+
+    PL	     50	  0
+	           50	  0	attack iot
+
+Non-PL	     50	 17
+	           50	 17	what is a discovery session
+
+Non-PL	     50	 23
+	           50	 23	software monetization strategy
+
+Non-PL	     50	 29
+	           50	 29	nordic semi nrf52840
+
+Non-PL	     40	  0
+	           40	  0	usługi chmurowe
+
+Non-PL	     40	 33
+	           40	 33	greener cryptocurrency
+
+Non-PL	     40	  0
+	           40	  0	dedicated webmasters
+
+Non-PL	     40	 25
+	           40	 25	lottery software development
+
+Non-PL	     40	 20
+	           40	 20	ai and iot in healthcare
+
+Non-PL	     40	 34
+	           40	 34	intellij search entire project
+
+Non-PL	     40	 21
+	           40	 21	in home daycare app
+
+Non-PL	     40	 13
+	           40	 13	best aviation software
+
+Non-PL	     40	  4
+	           40	  4	cutting-edge audio solutions
+
+Non-PL	     30	 13
+	           30	 13	best browser for pwa
+
+Non-PL	     30	 34
+	           30	 34	cost of technical debt
+
+Non-PL	     30	 25
+	           30	 25	podcasts for software developers
+
+Non-PL	     30	 40
+	           30	 40	test a rest api
+
+Non-PL	     30	 29
+	           30	 29	dynamic ticketing solutions
+
+Non-PL	     30	 11
+	           30	 11	edge devices for computer vision
+
+Non-PL	     30	 30
+	           30	 30	audiodsp
+
